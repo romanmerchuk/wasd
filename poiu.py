@@ -1,2 +1,2 @@
-print("hlo ")
-print(1121345634563456)
+print(123)
+print(321)
