@@ -1,2 +1,2 @@
-print("hlo ")
-print(1121345634563456)
+for i in range(10):
+    print(i)
