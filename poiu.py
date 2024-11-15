@@ -1,11 +1,11 @@
 class person:
-    name ="roman"
-    age =12
+    newName ="roman"
+    newage =12
     def get(self):
-        print(self.name,self.age)
+        print(self.newName,self.newage)
 
     def checkAge(self):
-        if self.age > 18:
+        if self.newage > 18:
             print('Повнолітня людина')
 
         else:
